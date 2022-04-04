@@ -1,4 +1,4 @@
-# DBMS-Project-Railway-Management-Syatem
+# DBMS-Project-Railway-Management-System
 
 
 
